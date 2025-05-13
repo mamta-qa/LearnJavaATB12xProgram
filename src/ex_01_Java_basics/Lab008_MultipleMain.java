@@ -7,7 +7,7 @@ public class Lab008_MultipleMain {
     }
 
     public static void main(int args) {
-        System.out.println( "this is not recognized by java");
+        System.out.println( "this is not recognized by java gg");
 
     }
     }
