@@ -34,4 +34,5 @@ class Test {
         regp.BrowserLaunch();
         regp.registerPage();
     }
+
 }
