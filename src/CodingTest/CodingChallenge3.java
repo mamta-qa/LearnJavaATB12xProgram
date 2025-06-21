@@ -25,6 +25,9 @@ public class CodingChallenge3 {
             System.out.println(" Condition1 && Condition2 " + (condition1 && condition2));
             System.out.println(" Condition1 || Condition2 " + (condition1 || condition2));
             System.out.println(" Condition1 != Condition2 " + (condition1 != condition2));
+            System.out.println("a==b || a<b "  +(a==b || a<b));
+            System.out.println("!(a==b) "   +!(a==b));
+
 
 
         }
