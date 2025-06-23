@@ -16,7 +16,7 @@ public class CodingChallenge6 {
             if (num > 0) {
                 System.out.println(" number is positive   " + num);
             } else if (num < 0) {
-                System.out.println("num is neagative  " + num);
+                System.out.println("num is negative  " + num);
             } else {
             System.out.println(" number is zero : " + num);
         }}
