@@ -10,7 +10,7 @@ public class Book {
     double price;
 
     
-    Book( String BookName, String Title,String Author, double price ){  //constructor
+    Book( String B1, String Title,String Author, double price ){  //constructor
         this.BookName= BookName;
         this.Title= Title;
         this.Author= Author;
