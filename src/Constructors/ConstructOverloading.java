@@ -6,8 +6,6 @@ public class ConstructOverloading {
     }
 
     ConstructOverloading( String Name){
-        System.out.println("My " +
-                "Name "  +Name);
     }
 
     ConstructOverloading( int age ,String Name){
